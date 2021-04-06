@@ -133,3 +133,60 @@ h4 {
   padding: 10px;
   color: #414040;
 }
+
+.section3 {
+  width: 40rem;
+}
+
+.section3 .body {
+  display: block;
+  margin-top: 50px;
+  padding: 150px 0px 150px 100px;
+  background-color: #cec0b3;
+}
+
+.section3 h5 {
+  font-size: 12px;
+  font-weight: bolder;
+  position: relative;
+  bottom: 20px;
+  color: #292828;
+}
+
+.section3 h1 {
+  font-size: 60px;
+  margin: 0px auto;
+  color: #292828;
+}
+
+.section3 p {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+  width: 400px;
+  margin-top: 20px;
+  color: #292828;
+}
+
+.section3 button {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 50px;
+  background-color: #24201c;
+  color: #eeeeee;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  transition: all 200ms ease-in-out;
+}
+
+.section3 button:hover {
+  background-color: #414040;
+  cursor: pointer;
+}
+
+.section3 img {
+  position: relative;
+  left: 520px;
+  bottom: 500px;
+}
