@@ -60,3 +60,49 @@ h4 {
 .icon .fa-shopping-cart {
   padding-right: 15px;
 }
+
+.section1 {
+  display: block;
+  text-align: center;
+  color: #414040;
+  padding-top: 300px;
+  padding-bottom: 50px;
+  background-image: url(../images/Skincare8.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.section1 h1 {
+  font-size: 46px;
+  font-weight: bold;
+  position: relative;
+  top: -200px;
+  color: #312d2d;
+}
+
+.section1 h3 {
+  font-size: 26px;
+  position: relative;
+  top: -200px;
+  color: #414040;
+}
+
+.shop {
+  margin-top: 70px;
+  background-color: #cec0b3;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  color: #414040;
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  top: -200px;
+  transition: all 200ms ease-in-out;
+}
+
+.shop:hover {
+  background-color: #dad8d8;
+  cursor: pointer;
+}
