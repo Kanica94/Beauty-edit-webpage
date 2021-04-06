@@ -106,3 +106,30 @@ h4 {
   background-color: #dad8d8;
   cursor: pointer;
 }
+
+.section2 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 18px;
+  color: #414040;
+}
+
+.section2 strong {
+  display: block;
+  text-align: center;
+  position: relative;
+  bottom: -10px;
+  color: #414040;
+}
+
+.section2 hr {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.section2 p {
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+  color: #414040;
+}
