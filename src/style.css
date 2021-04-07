@@ -136,12 +136,12 @@ h4 {
 
 .section3 {
   width: 40rem;
+  display: flex;
 }
 
 .section3 .body {
-  display: block;
   margin-top: 50px;
-  padding: 150px 0px 150px 100px;
+  padding: 150px 130px 150px 100px;
   background-color: #cec0b3;
 }
 
@@ -187,6 +187,6 @@ h4 {
 
 .section3 img {
   position: relative;
-  left: 520px;
-  bottom: 500px;
+  right: 110px;
+  top: 160px;
 }
