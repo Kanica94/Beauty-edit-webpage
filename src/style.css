@@ -199,7 +199,7 @@ h4 {
 .section4 .body {
   display: block;
   margin-top: 50px;
-  padding: 150px 155px 150px 100px;
+  padding: 150px 160px 150px 100px;
   background-color: #ebeae8;
   position: relative;
   bottom: 50px;
@@ -258,4 +258,42 @@ h4 {
   position: relative;
   left: -600px;
   top: 110px;
+}
+
+.section5 {
+  width: 75rem;
+  margin: 0px auto;
+  background-color: #3b3a3a;
+  padding: 50px;
+  position: relative;
+  bottom: 50px;
+}
+
+.section5 h3 {
+  font-size: 34px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: white;
+}
+
+.section5 h4 {
+  font-size: 24px;
+  margin: 20px auto;
+  text-align: center;
+  color: white;
+}
+
+.section5 hr {
+  width: 220px;
+  color: white;
+  margin: 0 auto;
+}
+
+.section5 p {
+  font-size: 14px;
+  margin: 20px auto;
+  text-align: center;
+  color: white;
+  width: 220px;
 }
