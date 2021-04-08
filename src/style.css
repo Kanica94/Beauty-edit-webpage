@@ -190,3 +190,72 @@ h4 {
   right: 110px;
   top: 160px;
 }
+
+.section4 {
+  width: 45rem;
+  display: flex;
+}
+
+.section4 .body {
+  display: block;
+  margin-top: 50px;
+  padding: 150px 155px 150px 100px;
+  background-color: #ebeae8;
+  position: relative;
+  bottom: 50px;
+  left: 540px;
+}
+
+.section4 h5 {
+  font-size: 12px;
+  font-weight: bolder;
+  position: relative;
+  bottom: 20px;
+  position: relative;
+  left: 160px;
+  color: #292828;
+}
+
+.section4 h1 {
+  font-size: 60px;
+  margin: 0px auto;
+  position: relative;
+  left: 160px;
+  color: #292828;
+}
+
+.section4 p {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+  width: 400px;
+  margin-top: 20px;
+  position: relative;
+  left: 160px;
+  color: #292828;
+}
+
+.section4 button {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 50px;
+  background-color: #24201c;
+  color: #eeeeee;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  transition: all 200ms ease-in-out;
+  position: relative;
+  left: 160px;
+}
+
+.section4 button:hover {
+  background-color: #414040;
+  cursor: pointer;
+}
+
+.section4 img {
+  position: relative;
+  left: -600px;
+  top: 110px;
+}
