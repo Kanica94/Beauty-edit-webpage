@@ -297,3 +297,63 @@ h4 {
   color: white;
   width: 220px;
 }
+
+.section6 {
+  width: 75rem;
+  position: relative;
+  bottom: 50px;
+  opacity: 0.4;
+  padding-top: 300px;
+  padding-bottom: 50px;
+  background-image: url(../images/Skincare6.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.section7 {
+  text-align: center;
+  color: #414040;
+  position: relative;
+  bottom: 340px;
+}
+
+.section7 h3 {
+  font-size: 60px;
+  margin: 0px auto;
+  color: #292828;
+}
+
+.section7 p {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+  width: 400px;
+  text-align: center;
+  margin: 0px auto;
+  color: #292828;
+}
+
+.section7 button {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 50px;
+  background-color: #24201c;
+  color: #eeeeee;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  transition: all 200ms ease-in-out;
+}
+
+.section7 button:hover {
+  background-color: #414040;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  color: #414040;
+  position: relative;
+  bottom: 230px;
+}
